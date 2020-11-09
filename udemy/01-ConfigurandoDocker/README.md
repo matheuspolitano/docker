@@ -1,9 +1,13 @@
 ## Seja bem vindo ao módulo de configuração do Docker
 
 O autor desse módulo é o [Matheus Politano](https://www.matheuspolitano.com/)
-[![matheus](blob:https://teams.microsoft.com/aff0225e-2481-4a4a-bb64-51a574d96332)]
+![Docker](https://miro.medium.com/max/2480/1*9hGvYE5jegHm1r_97gH-jQ.png)
 
 
 
-## O que é o docker
+## O que é o docker?
+
+Docker é um encapsulamento de um sistema unix isolado
+
+
 
